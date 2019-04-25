@@ -26,7 +26,7 @@ body, h1, h2, h3, h4, h5, h6, small {
     font-family : 'Univers LT Std','Helvetica Neue','Helvetica',sans-serif;
     font-size   : 20px;
     line-height : 1.6em;
-    color       : #636363;
+    color       : #000;
     font-weight : 300;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -46,8 +46,8 @@ small {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #636363;
-    text-decoration    : underline wavy #636363;
+    color              : #000;
+    text-decoration    : underline wavy;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
@@ -58,7 +58,7 @@ a,
 a:active,
 a:focus,
 a:active {
-    text-decoration : underline wavy #636363;
+    text-decoration : none;
     outline         : none
     }
 
@@ -129,7 +129,7 @@ ul {
  * -------------------*/
 
 .bg-0 {
-    background-color : #264653;
+    background-color : #fff;
     }
 
 .bg-1 {
@@ -152,7 +152,7 @@ ul {
  *  main Wrapper
  * -------------------*/
 #main-wrapper {
-    background : #264653;
+    background : #fff;
     overflow   : hidden;
     }
 
