@@ -47,7 +47,7 @@ small {
  *------------------------------------------*/
 a {
     color              : #000;
-    text-decoration    : underline wavy;
+    text-decoration    : underline wavy #fff;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
@@ -98,7 +98,7 @@ ul {
     }
 
 .left-col-block {
-    width      : 40%;
+    width      : 33%;
     text-align : left;
     overflow   : hidden;
     position   : fixed;
@@ -106,7 +106,7 @@ ul {
     }
 
 .right-col-block {
-    width      : 60%;
+    width      : 66%;
     position   : absolute;
     right      : 0;
     }
@@ -133,19 +133,19 @@ ul {
     }
 
 .bg-1 {
-    background-color : #2a9d8f;
+    background-color : #93e1d8;
     }
 
 .bg-2 {
-    background-color : #e9c46a;
+    background-color : #f984ab;
     }
 
 .bg-3 {
-    background-color : #f4a261;
+    background-color : #ffa69e;
     }
 
 .bg-4 {
-    background-color : #e76f51;
+    background-color : #aa4465;
     }
 
 /* --------------------
