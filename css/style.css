@@ -47,7 +47,7 @@ small {
  *------------------------------------------*/
 a {
     color              : #000;
-    text-decoration    : underline bold dotted #fff;
+    text-decoration    : underline;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
@@ -58,13 +58,13 @@ a,
 a:active,
 a:focus,
 a:active {
-    text-decoration : underline bold dotted #fff;
+    text-decoration : underline;
     outline         : none
     }
 
 a:hover,
 a:focus {
-    text-decoration : underline bold dotted #fff;
+    text-decoration : underline;
     color           : #000;
     }
 
@@ -145,8 +145,12 @@ ul {
     }
 
 .bg-4 {
-    background-color : #aa4465;
+    background-color : #d199b6;
     }
+
+.bg-5 {
+    background-color : #cee0dc;
+} 
 
 /* --------------------
  *  main Wrapper
