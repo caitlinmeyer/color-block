@@ -47,7 +47,7 @@ small {
  *------------------------------------------*/
 a {
     color              : #000;
-    text-decoration    : underline wavy #fff;
+    text-decoration    : underline bold dotted #fff;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
