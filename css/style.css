@@ -22,8 +22,6 @@
     font-style: normal;
 }
 
-<link href="https://fonts.googleapis.com/css?family=Slabo+27px&display=swap" rel="stylesheet">
-
 body, h1, h2, h3, h4, h5, h6, small {
     font-family : 'Roboto', sans-serif;
     font-size   : 20px;
@@ -35,7 +33,6 @@ body, h1, h2, h3, h4, h5, h6, small {
     }
 
 h1,h2 {
-    font-family: 'Slabo 27px', serif;
     font-weight : bold;
     margin-bottom: 20px;
     letter-spacing: 0.4px;
